@@ -1,10 +1,9 @@
 Format: http://dep.debian.net/deps/dep5
 Upstream-Name: astlib
-Source: <url://example.com>
+Source: http://astlib.sourceforge.net/
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: 2007-2013 Matt Hilton 
 License: GPL-2.0+
 
 Files: debian/*
@@ -27,6 +26,3 @@ License: GPL-2.0+
  .
  On Debian systems, the complete text of the GNU General
  Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".
-
-# Please also look if there are files or directories which have a
-# different copyright/license attached and list them here.
