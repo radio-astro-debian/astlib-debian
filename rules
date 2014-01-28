@@ -7,7 +7,6 @@ export DH_VERBOSE=1
 %:
 	dh $@ --with-python
 
-
 override_dh_clean:
 	dh_clean
-	rm PyWCSTools/wcssubs-3.8.4/*.o
+	rm -rf PyWCSTools/wcssubs-3.8.4/*.o
