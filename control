@@ -2,11 +2,11 @@ Source: astlib
 Section: python
 Priority: extra
 Maintainer: Gijs Molenaar <gijs@pythonic.nl>
-Build-Depends: debhelper (>= 8.0.0)
+Build-Depends: debhelper (>= 8.0.0), python2.7-dev
 Standards-Version: 3.9.2
 Homepage: http://astlib.sourceforge.net/
 
-Package: astlib
+Package: python-astlib
 Architecture: any
-Depends: ${python:Depends}, ${misc:Depends}
+Depends: ${python:Depends}, ${misc:Depends}, python-imaging, python-matplotlib, python-pyfits, python-scipy, python-numpy
 Description:  provides some tools for research astronomers.
