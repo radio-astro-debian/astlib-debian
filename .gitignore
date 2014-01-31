@@ -1,0 +1,6 @@
+files
+python-astlib.debhelper.log
+python-astlib.postinst.debhelper
+python-astlib.prerm.debhelper
+python-astlib.substvars
+python-astlib/
