@@ -1,3 +1,9 @@
+astlib (0.7.0-2precise1) precise; urgency=low
+
+  * previous package was empty, maybe this helps
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 31 Jan 2014 13:38:20 +0200
+
 astlib (0.7.0-1precise2) precise; urgency=low
 
   * fix clean script
