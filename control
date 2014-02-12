@@ -8,5 +8,6 @@ Homepage: http://astlib.sourceforge.net/
 
 Package: python-astlib
 Architecture: any
+Conflicts: astlib
 Depends: ${python:Depends}, ${misc:Depends}, python-imaging, python-matplotlib, python-pyfits, python-scipy, python-numpy
 Description:  provides some tools for research astronomers.
