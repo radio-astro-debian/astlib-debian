@@ -1,3 +1,9 @@
+astlib (0.7.0-1trusty) trusty; urgency=low
+
+  * build for trusty
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Tue, 08 Apr 2014 10:09:43 +0200
+
 astlib (0.7.0-2precise1) precise; urgency=low
 
   * previous package was empty, maybe this helps
